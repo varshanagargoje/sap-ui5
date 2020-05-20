@@ -1,0 +1,8 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="demo.view1" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="this is demo github upload project">
+		<content>
+	
+		</content>
+	</Page>
+</core:View>
